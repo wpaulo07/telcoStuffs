@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 16
+Class-Path: lib/commons-io-2.8.0.jar lib/slf4j-api-1.7.30.jar lib/logbac
+ k-classic-1.2.3.jar lib/logback-core-1.2.3.jar lib/ojdbc8-19.8.0.0.jar
+Main-Class: org.wtech.concatgrouper.ConcatGrouperMain
+Created-By: Maven Integration for Eclipse
+

@@ -1,0 +1,10 @@
+org\wtech\concatgrouper\model\SC150.class
+org\wtech\concatgrouper\model\SC100.class
+org\wtech\concatgrouper\Grouper.class
+org\wtech\concatgrouper\ConcatGrouperMain.class
+org\wtech\concatgrouper\appender\LineWriterController.class
+org\wtech\concatgrouper\filewriter\FileHandler.class
+org\wtech\concatgrouper\repository\DatabaseService.class
+org\wtech\concatgrouper\appender\BaseRecord.class
+org\wtech\concatgrouper\appender\RecordField.class
+org\wtech\concatgrouper\repository\DataFetcher.class
