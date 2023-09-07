@@ -31,7 +31,7 @@ public class ConcatGrouperMain {
 		}
 
 		// Set the output file name and path
-		String outputFileName = inputFile.getName() + ".PROCESSED";
+		String outputFileName = inputFile.getName() + ".TMP";
 		File outputFile = new File("/BSCS_WORK/bscs01/prod/WORK/BETOUTPUT/CONCATENATED/backup", outputFileName);
 
 		List<String> lines = FileUtils.readLines(inputFile, "ISO-8859-1");

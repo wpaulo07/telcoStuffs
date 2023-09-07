@@ -120,7 +120,7 @@ public class Grouper {
 
 	private void handleD200(String line) {
 		String valueSegment = line.substring(135, 147); 
-
+		this.isAppendable = false;
 		int value;
 		try {
 			value = Integer.parseInt(valueSegment.trim());
